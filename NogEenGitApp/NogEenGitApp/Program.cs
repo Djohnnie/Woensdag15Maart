@@ -12,6 +12,7 @@ namespace NogEenGitApp
         {
             Console.WriteLine("opnieuw domme code");
             Console.ReadKey();
+            // bla bla
         }
     }
 }
