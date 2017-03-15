@@ -6,8 +6,8 @@ namespace MijnGitApplicatie
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("GIT!!! .... HUUUUUUB");
-            // commentaar
+            Console.WriteLine("GIT!!! .... HUUUUUUB") ;
+            // commentar
             Console.ReadKey();
         }
     }
